@@ -17,5 +17,5 @@ const countVowelsAndConsonantsForLoop = str =>{
 
 
 
-console.log(countVowelsAndConsonantsForLoop('Hello, World!'));
+console.log(countVowelsAndConsonantsForLoop('Michael'));
 
